@@ -20,3 +20,10 @@ Thumbs.db
 
 # ShinyApps
 rsconnect/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
