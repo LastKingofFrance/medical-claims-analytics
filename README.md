@@ -1,4 +1,4 @@
-# 🏥 Medical Claims Analytics Dashboard
+# Medical Claims Analytics Dashboard
 
 A comprehensive Shiny dashboard for analyzing and visualizing medical claims data with advanced comparison features and drill-down capabilities.
 
