@@ -1,0 +1,22 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Database
+medical_claims.db
+*.sqlite
+*.db
+
+# Environment
+.Renviron
+renv/
+renv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ShinyApps
+rsconnect/
